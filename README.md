@@ -23,5 +23,5 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 
-https://github.com/s1041613/ts/dist/index.html
+### My Project
+https://s1041613.github.io/ts/dist/index.html
