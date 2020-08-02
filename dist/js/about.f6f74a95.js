@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{e70e:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(e._s(e.msg))])},o=[],u=t("a6f4"),c=Object(u["b"])({name:"HelloTypescript",setup:function(){var e="hi my name is jenny";function n(e){console.log("msg",e)}return n(e),{msg:e}}}),l=c,a=t("2877"),i=Object(a["a"])(l,s,o,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=about.f6f74a95.js.map
